@@ -1,0 +1,17 @@
+C:\Users\Gama\source\repos\slncertamen2\prycertamen2\bin\Debug\prycertamen2.exe.config
+C:\Users\Gama\source\repos\slncertamen2\prycertamen2\bin\Debug\prycertamen2.exe
+C:\Users\Gama\source\repos\slncertamen2\prycertamen2\bin\Debug\prycertamen2.pdb
+C:\Users\Gama\source\repos\slncertamen2\prycertamen2\obj\Debug\prycertamen2.csprojAssemblyReference.cache
+C:\Users\Gama\source\repos\slncertamen2\prycertamen2\obj\Debug\prycertamen2.Form1.resources
+C:\Users\Gama\source\repos\slncertamen2\prycertamen2\obj\Debug\prycertamen2.Properties.Resources.resources
+C:\Users\Gama\source\repos\slncertamen2\prycertamen2\obj\Debug\prycertamen2.csproj.GenerateResource.cache
+C:\Users\Gama\source\repos\slncertamen2\prycertamen2\obj\Debug\prycertamen2.csproj.CoreCompileInputs.cache
+C:\Users\Gama\source\repos\slncertamen2\prycertamen2\obj\Debug\prycertamen2.exe
+C:\Users\Gama\source\repos\slncertamen2\prycertamen2\obj\Debug\prycertamen2.pdb
+C:\Users\Gama\Desktop\slncertamen2\prycertamen2\obj\Debug\prycertamen2.csprojAssemblyReference.cache
+C:\Users\Gama\Desktop\slncertamen2\prycertamen2\obj\Debug\prycertamen2.exe
+C:\Users\Gama\Desktop\slncertamen2\prycertamen2\obj\Debug\prycertamen2.pdb
+C:\Users\Gama\Desktop\IGN.Informática\IGN.Informatica\Primer semestre\T. de lenguaje de Programacion\slncertamen2\prycertamen2\obj\Debug\prycertamen2.csproj.AssemblyReference.cache
+C:\Users\Gama\Desktop\IGN.Informática\IGN.Informatica\Primer semestre\T. de lenguaje de Programacion\slncertamen2\prycertamen2\obj\Debug\prycertamen2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Gama\Desktop\IGN.Informática\IGN.Informatica\Primer semestre\T. de lenguaje de Programacion\slncertamen2\prycertamen2\obj\Debug\prycertamen2.exe
+C:\Users\Gama\Desktop\IGN.Informática\IGN.Informatica\Primer semestre\T. de lenguaje de Programacion\slncertamen2\prycertamen2\obj\Debug\prycertamen2.pdb
